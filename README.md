@@ -13,3 +13,5 @@ numerical algorithms and compiling the code using cmake or manually, i.e.:
 g++ -c -o gcdfunc.o gcdfunc.cpp -Os -march=native -std=c++23
 
 g++ -o gcdtest main.cpp gcdfunc.o -Os -march=native -std=c++23
+
+Of course you can use cmake to compilation this code.
