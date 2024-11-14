@@ -1,7 +1,7 @@
 /*
  * gcdfunc.hpp
  *
- * The module contains functions for calculating the greatest common divisor.
+ * The module contains functions for calculating the greatest common dividor.
  *
  * 14-11-2018
  */
