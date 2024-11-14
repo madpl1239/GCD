@@ -11,4 +11,5 @@ This code calculates the GCD for two given numbers. It is a small exercise in C+
 numerical algorithms and compiling the code using cmake or manually, i.e.:
 
 g++ -c -o gcdfunc.o gcdfunc.cpp -Os -march=native -std=c++23
+
 g++ -o gcdtest main.cpp gcdfunc.o -Os -march=native -std=c++23
