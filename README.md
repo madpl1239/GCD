@@ -20,7 +20,9 @@ To use cmake, after downloading this repo you still need to create a build direc
 it and from there launch the terminal and type the following commands:
 
 cmake ../ -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
+
 make
+
 cd ..
 
 and run gdctest
