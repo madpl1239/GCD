@@ -13,7 +13,7 @@ int main(void)
 {
 	int a, b, c, d = 0;
     
-	// logo
+    // logo
     std::cout << "GCD v1.00 by madpl 2018\n\n";
 
     std::cout << "enter a: ";
