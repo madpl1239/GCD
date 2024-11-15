@@ -25,5 +25,5 @@ make
 
 cd ..
 
-and run gdctest
+and run gcdtest
 
