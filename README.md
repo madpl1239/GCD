@@ -30,6 +30,8 @@ and run:
 
 myHome/>./gcdtest
 
+And its all. See you next time :smiley:
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
 
