@@ -25,6 +25,6 @@ make
 cd ..
 and run gcdtest
 
-## Licence
+## License
 [MIT] (https://chosealicense.com/licenses/mit/)
 
