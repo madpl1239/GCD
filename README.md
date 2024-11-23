@@ -1,5 +1,5 @@
-# GCD
-## Greatest Common Divisor
+# GCD - Greatest Common Divisor
+
 
 I wanted to share with you a little code that may be useful to someone in math classes:))
 
@@ -22,6 +22,9 @@ it and from there launch the terminal and type the following commands:
 cmake ../ -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
 
 make
+
+## Licence
+[MIT] (https://chosealicense.com/licenses/mit/)
 
 cd ..
 
