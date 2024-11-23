@@ -1,5 +1,5 @@
-## GCD
-#Greatest Common Divisor
+# GCD
+##Greatest Common Divisor
 
 I wanted to share with you a little code that may be useful to someone in math classes:))
 
