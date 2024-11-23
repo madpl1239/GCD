@@ -1,4 +1,4 @@
-# GCD - Greatest Common Divisor
+
 ![alt text](image.png)
 
 I wanted to share with you a little code that may be useful to someone in math classes:))
