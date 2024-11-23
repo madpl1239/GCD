@@ -1,8 +1,7 @@
 /*
  * gcdfunc.cpp
  *
- * Implementation of functions calculating the 
- * greatest common dividor.
+ * Implementation of functions calculating the greatest common dividor.
  * 
  * 14-11-2018
  */
