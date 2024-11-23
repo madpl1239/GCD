@@ -19,12 +19,12 @@ Of course you can use cmake to compilation this code.
 
 To use cmake, after downloading this repo you still need to create a build directory. Then go into
 it and from there launch the terminal and type the following commands:
-
+'''cmake
 cmake ../ -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release
 make
 cd ..
 and run gcdtest
-
+'''
 ## Licence
 [MIT] (https://chosealicense.com/licenses/mit/)
 
