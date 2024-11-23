@@ -26,9 +26,9 @@ make
 
 cd ..
 
-and
+and run:
 
-run gcdtest
+myHome/>./gcdtest
 
 ## License
 [MIT] (https://chosealicense.com/licenses/mit/)
