@@ -31,5 +31,5 @@ and run:
 myHome/>./gcdtest
 
 ## License
-[MIT] (https://chosealicense.com/licenses/mit/)
+[MIT](https://chosealicense.com/licenses/mit/)
 
